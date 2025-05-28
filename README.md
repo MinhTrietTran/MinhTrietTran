@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- I am Triet or you can call me Mavis
+- Currently senior student at falcuty of IT at University of Science VNU-HCM
+- Passionate on problem solving and application building
+- Love to try new challenges and collaborate with people
+
 <!--
 **MinhTrietTran/MinhTrietTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
