@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - I am Triet or you can call me Mavis
-- Currently senior student at falcuty of IT at University of Science VNU-HCM
-- Passionate on problem solving and application building
+- Currently fresh graduate from falcuty of IT at University of Science VNU-HCM
+- Passionate on problem solving and backend building
 - Love to try new challenges and collaborate with people
 
 <!--
